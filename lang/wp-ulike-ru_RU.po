@@ -252,7 +252,7 @@ msgstr ""
 #: build/wp-ulike/admin/admin.php:182 build/wp-ulike/admin/logs.php:266
 #: build/wp-ulike/admin/stats.php:44
 msgid "Comment Likes Logs"
-msgstr ""
+msgstr "Логи комментариев"
 
 #: admin/admin.php:186 admin/logs.php:394 admin/stats.php:45
 #: build/wp-ulike/admin/admin.php:186 build/wp-ulike/admin/logs.php:394
@@ -284,7 +284,7 @@ msgstr ""
 #: admin/classes/class-settings.php:17
 #: build/wp-ulike/admin/classes/class-settings.php:17
 msgid "Custom Settings"
-msgstr ""
+msgstr "Дополнительные настройки"
 
 #: admin/classes/class-settings.php:28 admin/stats.php:404
 #: build/wp-ulike/admin/classes/class-settings.php:28
@@ -662,17 +662,17 @@ msgstr "Количество элементов для показа:"
 #: admin/classes/class-widget.php:552
 #: build/wp-ulike/admin/classes/class-widget.php:552
 msgid "Period:"
-msgstr ""
+msgstr "Период:"
 
 #: admin/classes/class-widget.php:554
 #: build/wp-ulike/admin/classes/class-widget.php:554
 msgid "All The Times"
-msgstr ""
+msgstr "Всё время"
 
 #: admin/classes/class-widget.php:555
 #: build/wp-ulike/admin/classes/class-widget.php:555
 msgid "Year"
-msgstr ""
+msgstr "Год"
 
 #: admin/classes/class-widget.php:556 admin/stats.php:154
 #: build/wp-ulike/admin/classes/class-widget.php:556
@@ -746,7 +746,7 @@ msgstr "Общие"
 #: admin/classes/tmp/options.php:15
 #: build/wp-ulike/admin/classes/tmp/options.php:15
 msgid "Button Type"
-msgstr ""
+msgstr "Тип кнопки"
 
 #: admin/classes/tmp/options.php:19
 #: build/wp-ulike/admin/classes/tmp/options.php:19
@@ -784,7 +784,7 @@ msgstr "Значок Кнопки"
 #: build/wp-ulike/admin/classes/tmp/options.php:44
 #: build/wp-ulike/admin/classes/tmp/options.php:543
 msgid "Best size: 16x16"
-msgstr ""
+msgstr "Лучший размер: 16×16"
 
 #: admin/classes/tmp/options.php:47
 #: build/wp-ulike/admin/classes/tmp/options.php:47
@@ -804,7 +804,7 @@ msgstr ""
 #: admin/classes/tmp/options.php:55
 #: build/wp-ulike/admin/classes/tmp/options.php:55
 msgid "Alert Box"
-msgstr ""
+msgstr "Всплывающая карточка"
 
 #: admin/classes/tmp/options.php:56
 #: build/wp-ulike/admin/classes/tmp/options.php:56
@@ -830,7 +830,7 @@ msgstr ""
 #: build/wp-ulike/admin/classes/tmp/options.php:68
 #: build/wp-ulike/admin/classes/tmp/options.php:138
 msgid "Single Posts"
-msgstr ""
+msgstr "Отдельная запись"
 
 #: admin/classes/tmp/options.php:69 admin/classes/tmp/options.php:139
 #: build/wp-ulike/admin/classes/tmp/options.php:69
@@ -883,7 +883,7 @@ msgstr "bbPress"
 #: admin/classes/tmp/options.php:77
 #: build/wp-ulike/admin/classes/tmp/options.php:77
 msgid "WooCommerce Pages"
-msgstr ""
+msgstr "WooCommerce страницы"
 
 #: admin/classes/tmp/options.php:79
 #: build/wp-ulike/admin/classes/tmp/options.php:79
@@ -893,7 +893,7 @@ msgstr ""
 #: admin/classes/tmp/options.php:84
 #: build/wp-ulike/admin/classes/tmp/options.php:84
 msgid "Format Number"
-msgstr ""
+msgstr "Формат счётчика"
 
 #: admin/classes/tmp/options.php:85 admin/classes/tmp/options.php:92
 #: admin/classes/tmp/options.php:121 admin/classes/tmp/options.php:152
@@ -946,7 +946,7 @@ msgstr ""
 #: admin/classes/tmp/options.php:96
 #: build/wp-ulike/admin/classes/tmp/options.php:96
 msgid "Thanks! You Liked This."
-msgstr ""
+msgstr "Спасибо! Ваш лайк поставлен."
 
 #: admin/classes/tmp/options.php:97
 #: build/wp-ulike/admin/classes/tmp/options.php:97
@@ -956,12 +956,12 @@ msgstr ""
 #: admin/classes/tmp/options.php:100
 #: build/wp-ulike/admin/classes/tmp/options.php:100
 msgid "Sorry! You unliked this."
-msgstr ""
+msgstr "Очень жаль! Вы убрали лайк."
 
 #: admin/classes/tmp/options.php:101
 #: build/wp-ulike/admin/classes/tmp/options.php:101
 msgid "Unliked Notice Message"
-msgstr ""
+msgstr "Сообщение снятого лайка"
 
 #: admin/classes/tmp/options.php:114 admin/classes/tmp/options.php:221
 #: admin/classes/tmp/options.php:306 admin/classes/tmp/options.php:423
@@ -1054,7 +1054,7 @@ msgstr "Не логгировать"
 #: build/wp-ulike/admin/classes/tmp/options.php:344
 #: build/wp-ulike/admin/classes/tmp/options.php:454
 msgid "Logged By Cookie"
-msgstr ""
+msgstr "Логгировать по Cookie"
 
 #: admin/classes/tmp/options.php:169 admin/classes/tmp/options.php:254
 #: admin/classes/tmp/options.php:345 admin/classes/tmp/options.php:455
@@ -1063,7 +1063,7 @@ msgstr ""
 #: build/wp-ulike/admin/classes/tmp/options.php:345
 #: build/wp-ulike/admin/classes/tmp/options.php:455
 msgid "Logged By IP"
-msgstr ""
+msgstr "Логгировать по IP"
 
 #: admin/classes/tmp/options.php:170 admin/classes/tmp/options.php:255
 #: admin/classes/tmp/options.php:346 admin/classes/tmp/options.php:456
@@ -1072,7 +1072,7 @@ msgstr ""
 #: build/wp-ulike/admin/classes/tmp/options.php:346
 #: build/wp-ulike/admin/classes/tmp/options.php:456
 msgid "Logged By Username"
-msgstr ""
+msgstr "Логгировать по Логину"
 
 #: admin/classes/tmp/options.php:176 admin/classes/tmp/options.php:261
 #: admin/classes/tmp/options.php:352 admin/classes/tmp/options.php:462
@@ -1100,7 +1100,7 @@ msgstr ""
 #: build/wp-ulike/admin/classes/tmp/options.php:359
 #: build/wp-ulike/admin/classes/tmp/options.php:469
 msgid "Size of Gravatars"
-msgstr ""
+msgstr "Размер Граватара"
 
 #: admin/classes/tmp/options.php:184 admin/classes/tmp/options.php:269
 #: admin/classes/tmp/options.php:360 admin/classes/tmp/options.php:470
@@ -1248,7 +1248,7 @@ msgstr "Настроить"
 #: admin/classes/tmp/options.php:507
 #: build/wp-ulike/admin/classes/tmp/options.php:507
 msgid "Custom Style"
-msgstr ""
+msgstr "Собственный стиль"
 
 #: admin/classes/tmp/options.php:512
 #: build/wp-ulike/admin/classes/tmp/options.php:512
@@ -1258,7 +1258,7 @@ msgstr ""
 #: admin/classes/tmp/options.php:516
 #: build/wp-ulike/admin/classes/tmp/options.php:516
 msgid "Button style"
-msgstr ""
+msgstr "Стиль кнопки"
 
 #: admin/classes/tmp/options.php:517 admin/classes/tmp/options.php:530
 #: build/wp-ulike/admin/classes/tmp/options.php:517
@@ -1286,7 +1286,7 @@ msgstr ""
 #: admin/classes/tmp/options.php:542
 #: build/wp-ulike/admin/classes/tmp/options.php:542
 msgid "Loading Animation"
-msgstr ""
+msgstr "Анимация загрузки"
 
 #: admin/classes/tmp/options.php:547
 #: build/wp-ulike/admin/classes/tmp/options.php:547
@@ -1765,4 +1765,4 @@ msgstr ""
 
 #. Author URI of the plugin/theme
 msgid "http://about.alimir.ir"
-msgstr ""
+msgstr "http://about.alimir.ir"
