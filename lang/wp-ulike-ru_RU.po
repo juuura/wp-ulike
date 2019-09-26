@@ -33,6 +33,8 @@ msgid ""
 "Thank you for choosing WP ULike! This version is our leanest and most "
 "powerful version yet."
 msgstr ""
+"Спасибо, что выбрали WP ULike! Эта единтсвенная базовая версия, "
+"полной версии пока нет."
 
 #: admin/about.php:34 admin/stats.php:38 build/wp-ulike/admin/about.php:34
 #: build/wp-ulike/admin/stats.php:38
@@ -86,50 +88,56 @@ msgid ""
 "comments AND buddypress activities. Its very simple to use and supports many "
 "options."
 msgstr ""
+"Плагин WP ULike позволяет интегрировать красивую кнопку Ajax Like в ваш "
+"WordPress сайт, чтобы позволить вашим посетителям лайкать страницы, сообщения, "
+"комментарии и деятельность BuddyPress. Плагин очень прост в использовании и поддерживает многие "
+"настройки."
 
 #: admin/about.php:76 build/wp-ulike/admin/about.php:76
 msgid "WP Ulike Extension"
-msgstr ""
+msgstr "WP Ulike расширение"
 
 #: admin/about.php:77 build/wp-ulike/admin/about.php:77
 msgid ""
 "Right now, WP ULike support wordpress posts / comments, BuddyPress "
 "activities & bbPress Topics."
 msgstr ""
+"WP ULike поддерживает WordPress комментарии, BuddyPress "
+"мероприятия и темы bbPress."
 
 #: admin/about.php:83 build/wp-ulike/admin/about.php:83
 msgid "Added More Than 20 Language Files"
-msgstr ""
+msgstr "Добавлено более 20 языков"
 
 #: admin/about.php:84 build/wp-ulike/admin/about.php:84
 msgid ""
 "WP ULike is already translated into +20 languages, with more always in "
 "progress."
-msgstr ""
+msgstr "WP ULike переведён на 20+ языков, ещё многие в процессе."
 
 #: admin/about.php:90 build/wp-ulike/admin/about.php:90
 msgid "User Profile Links"
-msgstr ""
+msgstr "Ссылки на профиль пользователя"
 
 #: admin/about.php:91 build/wp-ulike/admin/about.php:91
 msgid ""
 "Since WP ULike 2.3, We have synced the likers profile with BuddyPress & "
 "UltimateMember plugins."
-msgstr ""
+msgstr "С версии WP ULike 2.3, мы синхронизировали профиль BuddyPress и UltimateMember плагины."
 
 #: admin/about.php:97 build/wp-ulike/admin/about.php:97
 msgid "New Themes And Styles"
-msgstr ""
+msgstr "Новые темы и стили"
 
 #: admin/about.php:98 build/wp-ulike/admin/about.php:98
 msgid ""
 "Since WP ULike 2.3, We have made some new styles and themes and you can "
 "customize them by your taste."
-msgstr ""
+msgstr "С WP ULike 2.3 мы создали несколько тем оформления, выбирайте на свой вкус."
 
 #: admin/about.php:104 build/wp-ulike/admin/about.php:104
 msgid "myCRED Points Support"
-msgstr ""
+msgstr "Поддержка myCRED"
 
 #: admin/about.php:105 build/wp-ulike/admin/about.php:105
 msgid ""
